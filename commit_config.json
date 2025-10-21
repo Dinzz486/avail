@@ -1,0 +1,16 @@
+{
+  "totalCommits": 50,
+  "totalDays": 10,
+  "commitDates": [
+    {"value":"2025-09-01","commitNumber":5},
+    {"value":"2025-09-02","commitNumber":5},
+    {"value":"2025-09-03","commitNumber":5},
+    {"value":"2025-09-04","commitNumber":5},
+    {"value":"2025-09-05","commitNumber":5},
+    {"value":"2025-09-06","commitNumber":5},
+    {"value":"2025-09-07","commitNumber":5},
+    {"value":"2025-09-08","commitNumber":5},
+    {"value":"2025-09-09","commitNumber":5},
+    {"value":"2025-09-10","commitNumber":5}
+  ]
+}
